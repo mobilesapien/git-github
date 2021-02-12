@@ -1,2 +1,2 @@
 # git-github
-My First Lab
+This is for tutorial Purposes
